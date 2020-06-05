@@ -6,7 +6,7 @@ cmdtest==0.32+git
 configparser==3.5.0b2
 cryptography==2.3
 cycler==0.10.0
-Django==1.10.5
+Django==1.11.29
 django-appconf==1.0.3
 Django-Select2==5.8.10
 djangorestframework==3.6.3
