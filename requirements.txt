@@ -4,7 +4,7 @@ chardet==3.0.4
 cliapp==1.20180812.1
 cmdtest==0.32+git
 configparser==3.5.0b2
-cryptography==2.3
+cryptography==3.2
 cycler==0.10.0
 Django==1.10.5
 django-appconf==1.0.3
