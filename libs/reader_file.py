@@ -1,4 +1,4 @@
-from reader import BaseReader
+from .reader import BaseReader
 import os
 from pydub import AudioSegment
 from pydub.utils import audioop

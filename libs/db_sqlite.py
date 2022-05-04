@@ -1,8 +1,8 @@
-from db import Database
-from config import get_config
+from .db import Database
+from .config import get_config
 import sqlite3
 import sys
-from itertools import izip_longest
+from itertools import zip_longest
 from termcolor import colored
 
 class SqliteDatabase(Database):
