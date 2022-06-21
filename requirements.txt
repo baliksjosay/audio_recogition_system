@@ -19,7 +19,7 @@ keyrings.alt==3.1.1
 kiwisolver==1.1.0
 Markdown==3.0.1
 matplotlib==2.2.4
-numpy==1.16.4
+numpy==1.22.0
 PyAudio==0.2.11
 pycrypto==2.6.1
 pydub==0.23.1
