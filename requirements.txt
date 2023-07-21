@@ -9,7 +9,7 @@ cycler==0.10.0
 Django==1.10.5
 django-appconf==1.0.3
 Django-Select2==5.8.10
-djangorestframework==3.6.3
+djangorestframework==3.11.2
 entrypoints==0.3
 enum34==1.1.6
 idna==2.6
